@@ -2,7 +2,7 @@
 
 **`DESENVOLVEDOR JAVA E ENTUSIASTA DE CIÊNCIA DE DADOS E MACHINE LEARNING`**
 
-Meu nome é Mateus Chaves Barbosa, tenho 29 anos e sou natural de São Paulo mas moro atualmente em Ilhéus-BA. Sou bacharel em Física pela Universidade Estadual de Santa Cruz e tenho mestrado em Modelagem Computacional em Ciência e Tecnologia pla mesma universidade. Sou um grande apaixonado por tecnologia e compartilho meus conhecimentos e projetos por aqui .
+Meu nome é Mateus Chaves Barbosa, tenho 29 anos e sou natural de São Paulo mas moro atualmente em Ilhéus-BA. Sou bacharel em Física pela Universidade Estadual de Santa Cruz e tenho mestrado em Modelagem Computacional em Ciência e Tecnologia pela mesma universidade. Sou um grande apaixonado por tecnologia e compartilho meus conhecimentos e projetos por aqui.
 
 ---
 
